@@ -2,8 +2,10 @@
   "name": "exercise11",
   "private": true,
   "version": "0.0.0",
-   "homepage": "https://github.io",
+  
   "type": "module",
+  "homepage": "https://treinartz.github.io/",
+  
  
   "scripts": {
   "dev": "vite",

@@ -1,5 +1,5 @@
 {
-  "name": "exercise13",
+  "name": "exercise14",
   "private": true,
   "version": "0.0.0",
   
@@ -12,7 +12,7 @@
 
 
   "predeploy": "npm run build",
-"deploy": "gh-pages -d dist -e week13/exercise13"
+"deploy": "gh-pages -d dist -e week14/exercise14"
 
   },
   "dependencies": {

@@ -4,7 +4,7 @@
   "version": "0.0.0",
   
   "type": "module",
-   "homepage": "https://treinartz.github.io/",
+   "homepage": "https://treinartz.github.io/react_assignments4",
  
   "scripts": {
   "dev": "vite",

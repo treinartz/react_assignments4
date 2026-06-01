@@ -4,13 +4,12 @@
   "version": "0.0.0",
   
   "type": "module",
-   "homepage": "https://treinartz.github.io/react_assignments4/week11/exercise11",
  
   "scripts": {
   "dev": "vite",
   "build": "vite build",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+"deploy": "gh-pages -d dist -e week11/exercise11"
   },
   "dependencies": {
     "ghpages": "^0.0.10",
